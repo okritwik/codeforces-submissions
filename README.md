@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 
 ---
 
@@ -27,7 +28,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/okritwik/codeforces-submissions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/okritwik/codeforces-submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/okritwik/codeforces-submissions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 
 ---
 
