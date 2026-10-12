@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/okritwik/codeforces-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
 ### greedy
 
@@ -28,6 +35,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/okritwik/codeforces-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/okritwik/codeforces-submissions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/okritwik/codeforces-submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 
